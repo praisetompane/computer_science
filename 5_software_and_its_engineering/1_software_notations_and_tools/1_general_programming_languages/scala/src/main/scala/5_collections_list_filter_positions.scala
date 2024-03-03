@@ -7,5 +7,5 @@ def filter_out_odd_indices(arr: List[Int]): List[Int] = {
 
 @main def main() = {
   val numbers = List(2, 5, 3, 4, 6, 7, 9, 8)
-  println(f(numbers))
+  println(filter_out_odd_indices(numbers))
 }
