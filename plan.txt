@@ -1,109 +1,142 @@
-BSc Computing Science:
-    20xx-January-01 - 20xx-December-31:
-        ==============================================================================================================================================================
-        UNISA - Undergraduate - BSc Computing Science:
-            program: https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-Mathematics-and-Computer-Science-(98801-%E2%80%93-MCS)
-                     https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-subjects/COMPUTER-SCIENCE
-            First Level:
-                20xx-January-01 - 20xx-December-31:
-                    MAT1503 - Linear Algebra I
-                    MAT1512 - Calculus A
-                    COS1501 - Theoretical Computer Science I
-                    COS1511 - Introduction to Programming I
+==============================================================================================================================================================
+Massachusetts Institute of Technology:    
+    undergraduate: 
+        - program: 
+            - Mathematics with Computer Science (Course 18-C)
+            - https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/
 
-                20xx-January-01 - 20xx-December-31:
-                    COS1512 - Introduction to Programming II 	Co-requisite:COS1511
-                    COS1521 - Computer Systems: Fundamental Concepts
-                    EUP1501 - Ethical Information and Communication Technologies for Development Solutions
-                    MAT1613 - Calculus B 	Co-requisite:MAT1512
-
-            Second Level:
-                Module (Please click on the module to see further information) 	Pre-requisite/Co-requisite/Recommendation
-                Group A. Compulsory
-                    APM2611 - Differential Equations 	Pre-requisite:MAT1512
-                    Co-requisite:MAT1503, MAT1613
-                    APM2613 - Numerical Methods I 	Pre-requisite:COS1511
-                    Co-requisite:MAT1512, MAT1503
-                    COS2601 - Theoretical Computer Science II 	Pre-requisite:COS1501
-                    COS2611 - Programming: Data Structures 	Pre-requisite:COS1512
-                    COS2614 - Programming: Contemporary Concepts 	Pre-requisite:COS1511 and COS1512
-                    COS2661 - Formal Logic II 	Pre-requisite:COS1501
-                    MAT2611 - Linear Algebra 2 	Pre-requisite:MAT1503
-                    MAT2612 - Introduction to Discrete Mathematics 	Pre-requisite:COS1501 or MAT1512 or MAT1503
-                    MAT2613 - Real Analysis I 	Pre-requisite:MAT1613
-                    MAT2615 - Calculus in Higher Dimensions 	Pre-requisite:MAT1512 or MAT1503
-
-                    Recommendation:Students should have both MAT1512 and MAT1503 and also be registered for MAT1613 concurrently with MAT2615.
-                    PLS2607 - Philosophy of Science
-            Third Level:
-                Module (Please click on the module to see further information) 	Pre-requisite/Co-requisite/Recommendation
-                Group A. Compulsory
-                    APM3711 - Numerical Methods II 	Pre-requisite:APM2613
-                    COS3701 - Theoretical Computer Science III 	Pre-requisite:COS2601
-                    COS3711 - Advanced Programming 	Pre-requisite:COS2611 & COS2614
-                    COS3721 - Operating Systems and Architecture 	Pre-requisite:COS2614
-                    COS3751 - Techniques of Artificial Intelligence 	Pre-requisite:COS2611 & COS2661
-                    COS3761 - Formal Logic III 	Pre-requisite:COS2661
-                    MAT3701 - Linear Algebra III 	Pre-requisite:MAT2611
-                    MAT3705 - Complex Analysis 	Pre-requisite:MAT2615, MAT2613
-                    MAT3706 - Ordinary Differential Equations 	Pre-requisite:APM2611
-                    MAT3707 - Discrete Mathematics: Combinatorics 	Pre-requisite:MAT2612
-                    MAT3711 - Real Analysis II 	Pre-requisite:MAT2613
-            ==============================================================================================================================================================
-            Content:
-        ==============================================================================================================================================================
-        MIT - Undergraduate Mathematics with Computer Science (Course 18-C):
-            program:https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/
-
-            Departmental Program
-
-            Required Subjects	Units
-                Foundational Subjects
-                    18.03	Differential Equations 1	12
+        Required Subjects	Units
+            Foundational Subjects
+                18.03	Differential Equations 1	12
+            Select one of the following:	12
+                18.06 Linear Algebra 2
+                18.C06[J] Linear Algebra and Optimization
+            Discrete Mathematics
+                Select one of the following:	12-15
+                    6.042[J] | 18.062[J]
+                    Mathematics for Computer Science	                                INPROGRESS
+                    18.200
+                    Principles of Discrete Applied Mathematics (15 units, CI-M)
+                    18.200A
+                    Principles of Discrete Applied Mathematics
+            Computation and Algorithms
+                6.100A	Introduction to Computer Science Programming in Python	6       DONE
+                6.1010	Fundamentals of Programming	12                                  DONE
+                6.1210	Introduction to Algorithms	12                                  INPROGRESS
+                18.400[J]	Computability and Complexity Theory	12                      INPROGRESS
+                    or 18.404	Theory of Computation
+                18.410[J] | 6.006	Design and Analysis of Algorithms	12
                 Select one of the following:	12
-                    18.06 Linear Algebra 2
-                    18.C06[J] Linear Algebra and Optimization
-                Discrete Mathematics
-                    Select one of the following:	12-15
-                        6.042[J] | 18.062[J]
-                        Mathematics for Computer Science	                                INPROGRESS
-                        18.200
-                        Principles of Discrete Applied Mathematics (15 units, CI-M)
-                        18.200A
-                        Principles of Discrete Applied Mathematics
-                Computation and Algorithms
-                    6.100A	Introduction to Computer Science Programming in Python	6       DONE
-                    6.1010	Fundamentals of Programming	12                                  DONE
-                    6.1210	Introduction to Algorithms	12                                  INPROGRESS
-                    18.400[J]	Computability and Complexity Theory	12                      INPROGRESS
-                        or 18.404	Theory of Computation
-                    18.410[J] | 6.006	Design and Analysis of Algorithms	12
-                    Select one of the following:	12
-                        6.1020 Software Construction
-                        6.1800 Computer Systems Engineering
-                        6.3900 Introduction to Machine Learning
-                        6.4100 Artificial Intelligence
-                Restricted Electives
-                    Select four additional 12-unit subjects from Course 18 3	48
-                    Select one additional subject of at least 12 units from Course 6 4	12-15
-                    Units in Major	162-168
-                    Unrestricted Electives	48-54
-                    Units in Major That Also Satisfy the GIRs	(24-36)
-                    Total Units Beyond the GIRs Required for SB Degree	180-192
-            ==============================================================================================================================================================
-            Content:
+                    6.1020 Software Construction
+                    6.1800 Computer Systems Engineering
+                    6.3900 Introduction to Machine Learning
+                    6.4100 Artificial Intelligence
+            Restricted Electives
+                Select four additional 12-unit subjects from Course 18 3	48
+                Select one additional subject of at least 12 units from Course 6 4	12-15
+                Units in Major	162-168
+                Unrestricted Electives	48-54
+                Units in Major That Also Satisfy the GIRs	(24-36)
+                Total Units Beyond the GIRs Required for SB Degree	180-192
+    honours: 
 
-        ==============================================================================================================================================================
-        University of Pretoria
-            program: https://www.cs.up.ac.za/module_categories/undergraduate/
-        ==============================================================================================================================================================
-        Wits University
-            program: https://www.wits.ac.za/course-finder/undergraduate/science/computer-science/
+    masters:
 
-BSc Honours Computer Science:
+    doctrate: 
+==============================================================================================================================================================
+University of Pretoria:
+    - undergraduate: 
+        - program:
+            - BSc Computer Science
+            - https://www.cs.up.ac.za/undergraduate/ 
+            - https://www.cs.up.ac.za/module_categories/undergraduate/
+    - honours: 
+        - program:
+            - https://www.cs.up.ac.za/honours/
+            - https://www.cs.up.ac.za/module_categories/honours/
+    - masters:
+        - program:
+            - https://www.cs.up.ac.za/module_categories/masters/
+    - doctrate:
+        - program: 
+            - https://www.cs.up.ac.za/module_categories/doctoral/
+    - projects: https://github.com/COS301-SE-2024
+==============================================================================================================================================================
+Wits University:
+    - undergraduate: 
+        - program: 
+            - BSc Computer Science
+            - https://www.wits.ac.za/course-finder/undergraduate/science/computer-science/
+    honours: 
 
-Research in Computer Science:
+    masters:
 
-Insights into Mathematics:
-    A programming language is like a natural, human language in that it favors certain metaphors, images, and ways of thinking.
-        — Mindstorms: Children, Computers, and Powerful Ideas, Seymour Papert (1980)
+    doctrate: 
+==============================================================================================================================================================
+UNISA:
+    undergraduate: 
+        - program: 
+            - BSc Mathematics and Computer Science
+            - https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-Mathematics-and-Computer-Science-(98801-%E2%80%93-MCS)
+            - https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-subjects/COMPUTER-SCIENCE
+       
+        First Level:
+            20xx-January-01 - 20xx-December-31:
+                MAT1503 - Linear Algebra I
+                MAT1512 - Calculus A
+                COS1501 - Theoretical Computer Science I
+                COS1511 - Introduction to Programming I
+
+            20xx-January-01 - 20xx-December-31:
+                COS1512 - Introduction to Programming II 	Co-requisite:COS1511
+                COS1521 - Computer Systems: Fundamental Concepts
+                EUP1501 - Ethical Information and Communication Technologies for Development Solutions
+                MAT1613 - Calculus B 	Co-requisite:MAT1512
+
+        Second Level:
+            Module (Please click on the module to see further information) 	Pre-requisite/Co-requisite/Recommendation
+            Group A. Compulsory
+                APM2611 - Differential Equations 	Pre-requisite:MAT1512
+                Co-requisite:MAT1503, MAT1613
+                APM2613 - Numerical Methods I 	Pre-requisite:COS1511
+                Co-requisite:MAT1512, MAT1503
+                COS2601 - Theoretical Computer Science II 	Pre-requisite:COS1501
+                COS2611 - Programming: Data Structures 	Pre-requisite:COS1512
+                COS2614 - Programming: Contemporary Concepts 	Pre-requisite:COS1511 and COS1512
+                COS2661 - Formal Logic II 	Pre-requisite:COS1501
+                MAT2611 - Linear Algebra 2 	Pre-requisite:MAT1503
+                MAT2612 - Introduction to Discrete Mathematics 	Pre-requisite:COS1501 or MAT1512 or MAT1503
+                MAT2613 - Real Analysis I 	Pre-requisite:MAT1613
+                MAT2615 - Calculus in Higher Dimensions 	Pre-requisite:MAT1512 or MAT1503
+
+                Recommendation:Students should have both MAT1512 and MAT1503 and also be registered for MAT1613 concurrently with MAT2615.
+                PLS2607 - Philosophy of Science
+        Third Level:
+            Module (Please click on the module to see further information) 	Pre-requisite/Co-requisite/Recommendation
+            Group A. Compulsory
+                APM3711 - Numerical Methods II 	Pre-requisite:APM2613
+                COS3701 - Theoretical Computer Science III 	Pre-requisite:COS2601
+                COS3711 - Advanced Programming 	Pre-requisite:COS2611 & COS2614
+                COS3721 - Operating Systems and Architecture 	Pre-requisite:COS2614
+                COS3751 - Techniques of Artificial Intelligence 	Pre-requisite:COS2611 & COS2661
+                COS3761 - Formal Logic III 	Pre-requisite:COS2661
+                MAT3701 - Linear Algebra III 	Pre-requisite:MAT2611
+                MAT3705 - Complex Analysis 	Pre-requisite:MAT2615, MAT2613
+                MAT3706 - Ordinary Differential Equations 	Pre-requisite:APM2611
+                MAT3707 - Discrete Mathematics: Combinatorics 	Pre-requisite:MAT2612
+                MAT3711 - Real Analysis II 	Pre-requisite:MAT2613
+
+    honours: 
+
+    masters:
+
+    doctrate: 
+
+==============================================================================================================================================================
+course content template:
+    readings:
+    videos:
+        current position:
+    recitations:
+    assignments:
+    exams:
