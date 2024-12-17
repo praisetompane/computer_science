@@ -24,7 +24,7 @@
 - [ZBMATH](https://zbmath.org/classification/?q=cc%3A68)
 
 ## History:
-- https://plato.stanford.edu/entries/computing-history/
+- [The Modern History of Computing](https://plato.stanford.edu/entries/computing-history/)
 
 ## State of the art:
 - [Quanta Magazine](https://www.quantamagazine.org/computer-science/)
